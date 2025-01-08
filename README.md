@@ -1,1 +1,1 @@
-# NETFLIX_SQL_ANALYSIS_P2
+# Netflix Movies and TV Shows Data Analysis using SQL
